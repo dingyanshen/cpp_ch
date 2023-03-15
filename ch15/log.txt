@@ -1,0 +1,4 @@
+ISBN: abc # sold: 10 total due: 70
+ISBN: def # sold: 10 total due: 200
+ISBN: ghi # sold: 10 total due: 400
+Total Sale: 670
